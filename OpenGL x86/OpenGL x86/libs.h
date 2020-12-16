@@ -19,3 +19,9 @@
 #include <SOIL2.h>
 
 using namespace std;
+
+struct Vertex {
+	glm::vec3 position;
+	glm::vec3 color;
+	glm::vec2 texcoord;
+};

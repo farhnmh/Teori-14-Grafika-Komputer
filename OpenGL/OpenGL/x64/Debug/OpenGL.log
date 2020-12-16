@@ -1,3 +1,0 @@
-﻿  main.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  OpenGL.vcxproj -> D:\gt\Semester 5\1. Pengantar Grafika Komputer\Teori-14-Grafika-Komputer\OpenGL\x64\Debug\OpenGL.exe
