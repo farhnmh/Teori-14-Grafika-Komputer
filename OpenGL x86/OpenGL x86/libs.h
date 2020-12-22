@@ -1,3 +1,6 @@
+// Nama Lengkap	: Farhan Muhammad
+// NRP			: 4210181002
+
 #pragma once
 
 #include <iostream>

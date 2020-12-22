@@ -1,3 +1,6 @@
+// Nama Lengkap	: Farhan Muhammad
+// NRP			: 4210181002
+
 #version 440
 
 layout (location = 0) in vec3 vertex_position;
